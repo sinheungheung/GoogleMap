@@ -17,7 +17,7 @@ import com.google.android.gms.maps.model.GroundOverlayOptions;
 import com.google.android.gms.maps.model.LatLng;
 
 public class MainActivity extends AppCompatActivity implements OnMapReadyCallback {
-    //  참조변수 선언하기
+    //   참조변수 선언하기
     GoogleMap gMap;
     MapFragment mapFrag;
     GroundOverlayOptions videoMarker;
